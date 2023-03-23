@@ -62,7 +62,7 @@ My csdn blog：https://blog.csdn.net/wwt18811707971
 
 (11) drvmpu6050.c: MPU6050 by I2C 
 
-(12) drvoled.c: oled drivver
+(12) drvoled.c: oled driver
 
 
 
